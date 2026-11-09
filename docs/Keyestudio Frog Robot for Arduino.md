@@ -4,7 +4,7 @@
 
 # 1. Resources Download
 
- **Download the APP, Code and library from the link: <https://fs.keyestudio.com/KS0446>**
+ **[Click on here to download the resources](./resources.7z).**
 
 
 # 2. Overview
